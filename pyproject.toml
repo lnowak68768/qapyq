@@ -1,0 +1,5 @@
+[project]
+name = "qapyq"
+version = "0.1.0"
+description = "AI-assisted media curator for large image/video datasets. Streamlined captioning, cropping, masking for LoRA/diffusion training workflows."
+requires-python = ">=3.10"
